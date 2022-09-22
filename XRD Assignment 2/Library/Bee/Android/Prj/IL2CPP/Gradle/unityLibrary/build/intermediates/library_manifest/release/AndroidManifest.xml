@@ -6,7 +6,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="24"
+        android:minSdkVersion="30"
         android:targetSdkVersion="30" />
 
     <uses-feature android:glEsVersion="0x00020000" />

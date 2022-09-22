@@ -44,7 +44,15 @@ extern void ARFeatheredPlaneMeshVisualizer_GenerateBoundaryUVs_mF756D3C1F7925A69
 extern void ARFeatheredPlaneMeshVisualizer__ctor_m9A77651BCAE58AA0B994FFF6C6B63B1CFF2729F6 (void);
 // 0x00000010 System.Void ARFeatheredPlaneMeshVisualizer::.cctor()
 extern void ARFeatheredPlaneMeshVisualizer__cctor_m56285A000EE27A1631BE9C5BCDA5C376E5D133C3 (void);
-static Il2CppMethodPointer s_methodPointers[16] = 
+// 0x00000011 System.Void ObjectPlacer::Start()
+extern void ObjectPlacer_Start_mD0328C66161CC52882578F038BBD04D337862A7C (void);
+// 0x00000012 System.Void ObjectPlacer::Update()
+extern void ObjectPlacer_Update_m4DE31B271CEE4FE56BBA330E450E9848CC7F9508 (void);
+// 0x00000013 System.Void ObjectPlacer::.ctor()
+extern void ObjectPlacer__ctor_mAB79127F0116D0F973B085DCFC7E5EF304B62DA0 (void);
+// 0x00000014 System.Void ObjectPlacer::.cctor()
+extern void ObjectPlacer__cctor_m4E294728DE3CB12772170E94298D777073FBFCF2 (void);
+static Il2CppMethodPointer s_methodPointers[20] = 
 {
 	AnchorCreator_get_AnchorPrefab_mBBAF7805E9D9F8D79408EE642D153BC76306B25A,
 	AnchorCreator_set_AnchorPrefab_m53CC9CC3022C713826B44536B48B462C8A1FACFF,
@@ -62,8 +70,12 @@ static Il2CppMethodPointer s_methodPointers[16] =
 	ARFeatheredPlaneMeshVisualizer_GenerateBoundaryUVs_mF756D3C1F7925A69CD8C7C8CCE56209AB321FEF5,
 	ARFeatheredPlaneMeshVisualizer__ctor_m9A77651BCAE58AA0B994FFF6C6B63B1CFF2729F6,
 	ARFeatheredPlaneMeshVisualizer__cctor_m56285A000EE27A1631BE9C5BCDA5C376E5D133C3,
+	ObjectPlacer_Start_mD0328C66161CC52882578F038BBD04D337862A7C,
+	ObjectPlacer_Update_m4DE31B271CEE4FE56BBA330E450E9848CC7F9508,
+	ObjectPlacer__ctor_mAB79127F0116D0F973B085DCFC7E5EF304B62DA0,
+	ObjectPlacer__cctor_m4E294728DE3CB12772170E94298D777073FBFCF2,
 };
-static const int32_t s_InvokerIndices[16] = 
+static const int32_t s_InvokerIndices[20] = 
 {
 	5103,
 	4139,
@@ -71,7 +83,7 @@ static const int32_t s_InvokerIndices[16] =
 	5198,
 	5198,
 	5198,
-	8256,
+	8258,
 	5144,
 	4172,
 	5198,
@@ -80,13 +92,17 @@ static const int32_t s_InvokerIndices[16] =
 	4034,
 	4139,
 	5198,
-	8256,
+	8258,
+	5198,
+	5198,
+	5198,
+	8258,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	16,
+	20,
 	s_methodPointers,
 	0,
 	NULL,

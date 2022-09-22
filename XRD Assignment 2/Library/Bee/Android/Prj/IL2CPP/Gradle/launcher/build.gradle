@@ -14,7 +14,7 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 24
+        minSdkVersion 30
         targetSdkVersion 30
         applicationId 'com.DefaultCompany.XRDAssignment2'
         ndk {

@@ -1,23 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ionut\\Documents\\XRD\\AR-Space-Shooter\\XRD Assignment 2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\ionut\\Documents\\XRD\\XRD-Assignment2\\XRD Assignment 2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ionut\\Documents\\XRD\\AR-Space-Shooter\\XRD Assignment 2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\ionut\\Documents\\XRD\\XRD-Assignment2\\XRD Assignment 2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,108",
-                        "endColumns": "51,65",
-                        "endOffsets": "104,171"
-                    },
-                    "to": {
-                        "startLines": "13,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "802,856",
-                        "endColumns": "53,67",
-                        "endOffsets": "851,919"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309",
+                        "endColumns": "45,56,55,48,45,46",
+                        "endOffsets": "96,153,209,258,304,351"
                     }
                 },
                 {
@@ -38,7 +31,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ionut\\Documents\\XRD\\AR-Space-Shooter\\XRD Assignment 2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\ionut\\Documents\\XRD\\XRD-Assignment2\\XRD Assignment 2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",
@@ -57,13 +50,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ionut\\Documents\\XRD\\AR-Space-Shooter\\XRD Assignment 2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "source": "C:\\Users\\ionut\\Documents\\XRD\\XRD-Assignment2\\XRD Assignment 2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,101,158,214,263,309",
-                        "endColumns": "45,56,55,48,45,46",
-                        "endOffsets": "96,153,209,258,304,351"
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,108",
+                        "endColumns": "51,65",
+                        "endOffsets": "104,171"
+                    },
+                    "to": {
+                        "startLines": "13,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "802,856",
+                        "endColumns": "53,67",
+                        "endOffsets": "851,919"
                     }
                 }
             ]
