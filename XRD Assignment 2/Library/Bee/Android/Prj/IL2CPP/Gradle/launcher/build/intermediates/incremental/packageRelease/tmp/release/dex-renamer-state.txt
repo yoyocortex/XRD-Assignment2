@@ -1,4 +1,0 @@
-#Thu Sep 22 10:40:15 CEST 2022
-base.0=C\:\\Users\\ionut\\Documents\\XRD\\XRD-Assignment2\\XRD Assignment 2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
